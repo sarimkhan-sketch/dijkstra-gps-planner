@@ -4,6 +4,7 @@ Algorithm based GPS planner application
  Project structure:
 
   dijkstra-gps-planner/
+
   ├── app.py              # Full app (Dijkstra + Streamlit GUI + NetworkX visualization)
   
   ├── requirements.txt    # streamlit, networkx, matplotlib
