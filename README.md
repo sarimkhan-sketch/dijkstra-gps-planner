@@ -120,7 +120,6 @@ dijkstra-gps-planner/
 ## Author
 
 **Sarim Khan**
-- Registration: 23FE10CSE00486
 - Course: B.Tech CSE, VI Semester
 - University: Manipal University Jaipur
 - Guide: Prof. Abhay Bisht
